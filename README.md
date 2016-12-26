@@ -1,6 +1,6 @@
-## Zekr Shomar
-Zekr Shomar Telegram Bot Created By **Mench**
+## سورس ربات ذکر شمار در تلگرام
 
-## method
-inline Keyboard and
-Preg Match Pattern in php
+این سورس از حالت اینلاین کیبورد استفاده میکند و باید شما یک سرور دارای ssl تهیه کنید اگر ندارید میتوانید از codeanywhere.com استفاده نمایید
+
+Telegram Channel :
+@OnyxTM
